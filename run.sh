@@ -15,7 +15,7 @@ echo "======================"
 docker build -t swatch/server_django:0.0.1 .
 
 echo -e "\n>> Starting swatch server"
-docker run -p 8080:8080 -d swatch/server_django:0.0.1 >> ../server.pid
+docker run -p 8007:8007 -d swatch/server_django:0.0.1 >> ../server.pid
 
 cd ../swatch-ui
 
