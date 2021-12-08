@@ -1,4 +1,4 @@
-rm -rf swatch-*
+rm -rf swatch*
 
 echo "Downloading swatch server"
 echo "========================="
@@ -30,4 +30,4 @@ echo -e "\nDone: http://localhost:3000/"
 
 cd ..
 
-rm -rf swatch-*
+rm -rf swatch*
