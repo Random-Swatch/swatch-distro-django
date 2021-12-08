@@ -4,6 +4,7 @@
 
 ## Pre-requisites
 * Python 3.6.1
+* Pip 20.3.4
 * NodeJs 16.13.1
 * Docker 19.03.8 `(Optional)`
 
