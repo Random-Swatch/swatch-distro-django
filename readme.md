@@ -11,7 +11,7 @@
 
 ### 1. Using binary 
 
-* Clone `swatch-server` and `swatch-ui` modules using following commands,
+* Clone `swatch_server_django` and `swatch-ui` modules using following commands,
   * `git clone https://github.com/Random-Swatch/swatch_server_django.git`
   * `git clone https://github.com/Random-Swatch/swatch-ui.git`
 * Navigate to the root of the `swatch_server_django` module and run the following command,
