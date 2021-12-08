@@ -1,3 +1,5 @@
+rm -rf swatch-*
+
 echo "Downloading swatch server"
 echo "========================="
 git clone https://github.com/Random-Swatch/swatch_server_django.git
